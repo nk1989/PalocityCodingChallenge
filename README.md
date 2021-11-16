@@ -1,1 +1,1 @@
-# PalocityCodingChallenge
+# Palocity Coding Challenge
